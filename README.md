@@ -1,4 +1,4 @@
-# E-commerce Back End
+# E-commerce 
 
 Information:
 - Application program with backend logic to manipulate product information.

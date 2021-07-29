@@ -11,6 +11,6 @@ Created with:
 - sequelize
 - express
 
-Video Link: https://drive.google.com/file/d/1V_ABU5dzDTuvJvn4wF2Vz0NrJCp19x4J/view
+Video Link: https://drive.google.com/file/d/1j9e3E59C7R785YFy_4Iq7vkeAwFomvyE/view
 
 Git Repo Link: https://github.com/mspierings96/E-Commerce/edit/main/README.md
